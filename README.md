@@ -20,6 +20,7 @@ I'm particularly focused in **backend architecture, API design scalable systems 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![Django Ninja](https://img.shields.io/badge/Django%20Ninja-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases & Infrastructure**
 
