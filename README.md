@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey there, I'm Covenant 👋🏽
 
-<!--
-**Covenantmondei/Covenantmondei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Python | FastAPI | Django | Django Ninja | Golang
 
-Here are some ideas to get you started:
+I build backend systems, APIs, and services that can create/solve problems depending on what you want.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly focused in **backend architecture, API design scalable systems and artificial intelligence**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 What I Do
+
+*  Build REST APIs and backend services
+*  Implement authentication & authorization systems
+*  Design and work with relational databases
+*  Build real-time systems with Redis & WebSockets
+*  Containerize and deploy backend applications
+*  Design modular and maintainable backend architectures
+
+---
+
+## 📊 GitHub Stats
+
+![Covenant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on interesting backend projects and building things that solve real problems.
+
+📧 **Email:** thisiscovenantmondei@gmail.com
+
+💼 **LinkedIn:** [Let's connect](YOUR_LINKEDIN)
+
+---
+
+> **"Build things. Break things. Learn. Build again."**
