@@ -47,15 +47,15 @@ I'm particularly focused in **backend architecture, API design scalable systems 
 ## GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Covenantmondei&show_icons=true&locale=en&layout=compact&theme=light" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Covenantmondei&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
   
   <br/>
 
-  <img src="https://github-stats-extended.vercel.app/api?username=Covenantmondei&show_icons=true&theme=light" alt="Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Covenantmondei&show_icons=true&theme=dark" alt="Stats" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Covenantmondei&theme=light" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Covenantmondei&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ I'm open to collaborating on interesting backend projects and building things th
 
 📧 **Email:** thisiscovenantmondei@gmail.com
 
-💼 **LinkedIn:** [Let's connect](YOUR_LINKEDIN)
+💼 **LinkedIn:** [Let's connect](https://www.linkedin.com/in/covenant-monday-ab9873229?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
