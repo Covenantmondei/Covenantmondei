@@ -8,7 +8,7 @@ I'm particularly focused in **backend architecture, API design scalable systems 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -32,7 +32,7 @@ I'm particularly focused in **backend architecture, API design scalable systems 
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 *  Build REST APIs and backend services
 *  Implement authentication & authorization systems
@@ -43,7 +43,7 @@ I'm particularly focused in **backend architecture, API design scalable systems 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Covenantmondei&show_icons=true&locale=en&layout=compact&theme=light" alt="Most Used Languages" />
