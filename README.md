@@ -45,9 +45,17 @@ I'm particularly focused in **backend architecture, API design scalable systems 
 
 ## 📊 GitHub Stats
 
-![Covenant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Covenantmondei&show_icons=true&theme=github_dark)
+<div align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Covenantmondei&show_icons=true&locale=en&layout=compact&theme=light" alt="Most Used Languages" />
+  
+  <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Covenantmondei&layout=compact&theme=github_dark)
+  <img src="https://github-stats-extended.vercel.app/api?username=Covenantmondei&show_icons=true&theme=light" alt="Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Covenantmondei&theme=light" alt="GitHub Streak" />
+</div>
 
 ---
 
